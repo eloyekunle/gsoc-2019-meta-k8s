@@ -25,7 +25,7 @@ Mentors: [Marcin Maciaszczyk](https://github.com/maciaszczykm), [Sebastian Flore
 ## Links
 
 * [Project on GSoC website](https://summerofcode.withgoogle.com/projects/#5700575465832448)
-* [Proposal Submitted for GSoC](https://github.com/eloyekunle/gsoc-2019-meta-k8s/blob/master/proposal.pdf)
+* [Proposal Submitted for GSoC](https://github.com/eloyekunle/gsoc-2019-meta-k8s/raw/master/proposal.pdf)
 * [Proposal Draft (Google Doc)](https://docs.google.com/document/d/1YPc5AOO4BciZVrKKi6P1GkdCafZmL14Uy3OFtWyDkQo/edit?usp=sharing)
 * [Original Feature Issue](https://github.com/kubernetes/dashboard/issues/2493)
 * [Progress Tracker (Trello Board)](https://trello.com/b/7jmeonwA)
