@@ -1,11 +1,8 @@
 ## GSOC - Add Support for Custom Resource Definitions to the Dashboard
 
-Progress tracker for my GSoC project for CNCF &amp; Kubernetes - Add Support for Custom Resource Definitions to the Dashboard
+Progress tracker for my GSoC project for CNCF &amp; Kubernetes - **Add Support for Custom Resource Definitions to the Dashboard**.
 
-To easier track the progress, I've created a public Trello board and a Google Document. I'll provide daily progress updates in both Google Document and Trello Board.
-
-* [Google Document](https://docs.google.com/document/d/18hmZRmx7opo-85w6MnA-L7nhRA986D9n78gk2Exfdqs/edit?usp=sharing)
-* [Trello Board](https://trello.com/b/7jmeonwA)
+To easier track the progress, I've created a [public Trello board](https://trello.com/b/7jmeonwA) where I'll be providing regular progress updates.
 
 ## Abstract
 
