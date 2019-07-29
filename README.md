@@ -32,6 +32,8 @@ Mentors: [Marcin Maciaszczyk](https://github.com/maciaszczykm), [Sebastian Flore
 
 ## Pull Requests and Issues
 
+The following list is automatically generated using https://github.com/nikhita/github-contrib.
+
 **Repository: kubernetes**
 
 Total Pull Requests Created: 2
