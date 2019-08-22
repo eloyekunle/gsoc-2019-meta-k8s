@@ -26,6 +26,7 @@ Mentors: [Marcin Maciaszczyk](https://github.com/maciaszczykm), [Sebastian Flore
 * [Proposal Draft (Google Doc)](https://docs.google.com/document/d/1YPc5AOO4BciZVrKKi6P1GkdCafZmL14Uy3OFtWyDkQo/edit?usp=sharing)
 * [Original Feature Issue](https://github.com/kubernetes/dashboard/issues/2493)
 * [Progress Tracker (Trello Board)](https://trello.com/b/7jmeonwA)
+* [All commits to kubernetes/dashboard](https://github.com/kubernetes/dashboard/search?o=desc&q=author%3Aeloyekunle+author-date%3A%3C2019-09-01&s=committer-date&type=Commits)
 
 ## Pull Requests and Issues
 
