@@ -11,7 +11,7 @@ To easier track the progress, I've created a [public Trello board](https://trell
 ## General Information
 
 Name: Elijah Oyekunle  
-E-mail: eloyekunle@gmail.com  
+E-mail: elijah (at) elijahoyekunle.com  
 Website and Blog: https://elijahoyekunle.com  
 GitHub: [eloyekunle](https://github.com/eloyekunle)  
 Slack ([Kubernetes](http://slack.k8s.io/)): eloyekunle  
