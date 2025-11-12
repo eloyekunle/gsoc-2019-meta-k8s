@@ -15,7 +15,7 @@ E-mail: elijah (at) elijahoyekunle.com
 Website and Blog: https://elijahoyekunle.com  
 GitHub: [eloyekunle](https://github.com/eloyekunle)  
 Slack ([Kubernetes](http://slack.k8s.io/)): eloyekunle  
-Twitter: [elijahoyekunle](https://twitter.com/elijahoyekunle)  
+X (Twitter): [eloyekunle](https://x.com/eloyekunle)  
 Time zone: UTC+01:00 (West Africa Time)  
 Mentors: [Marcin Maciaszczyk](https://github.com/maciaszczykm), [Sebastian Florek](https://github.com/floreks)  
 
